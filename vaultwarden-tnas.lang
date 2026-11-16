@@ -1,0 +1,97 @@
+[en-us]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "Vaultwarden"
+auth = "waskevin"
+descript = "A self-hosted password manager compatible with Bitwarden clients."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
