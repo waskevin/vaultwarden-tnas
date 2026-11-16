@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  vaultwarden:
+    image: vaultwarden/server:1.37.5
+    restart: unless-stopped
+    user: "1000:1000"
+    ports:
+      - "11007:80"
+    volumes:
+      - ./data:/data
+    environment:
+      - TZ=Asia/Shanghai
+    healthcheck:
+      test: ["CMD", "/healthcheck.sh"]
+      interval: 60s
+      timeout: 10s
+      retries: 3
+x-app-meta:
+  web:
+    port: 11007
+    protocol: http
